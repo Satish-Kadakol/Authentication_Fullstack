@@ -24,7 +24,7 @@ It provides user authentication features including signup, email verification, l
 - **Database**: [MongoDB](https://www.mongodb.com/)
 - **Authentication**: [JWT](https://jwt.io/)
 - **Email Service**: [Mailtrap](https://mailtrap.io/)
-- **Styling**: (Add TailwindCSS/Chakra UI/Plain CSS if you used one)
+- **Styling**: TailwindCSS
 
 ---
 
